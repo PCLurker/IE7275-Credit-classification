@@ -1,4 +1,4 @@
-# IE7275-Credit-classification
+# IE7275 - Credit classification
 
 This project is a study on supervised learning using various models and compare their performance.
 
